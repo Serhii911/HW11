@@ -4,7 +4,7 @@ import java.util.List;
 public class NameClass {
     private List<String> names;
 
-    public List<String> getNames() {
+    public  List<String> getNames() {
         return names;
     }
 
