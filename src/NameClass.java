@@ -24,6 +24,7 @@ public class NameClass {
                 result.append(stringFormat);
             }
         }
+        result.setLength(result.length() - 2);
         return result.toString();
     }
 
